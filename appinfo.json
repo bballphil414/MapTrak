@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "01ecc3e1-5557-4274-b660-bf9368e7c1d8",
+    "appKeys": {},
+    "longName": "MapTrack",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "MapTrack",
+    "companyName": "IncrediPixel",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
